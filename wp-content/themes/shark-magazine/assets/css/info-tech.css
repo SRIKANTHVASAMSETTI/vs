@@ -1,0 +1,100 @@
+.backtotop,
+.read-more a,
+#top-menu,
+.main-navigation,
+.post-navigation:before,
+.posts-navigation:before,
+.post-navigation:after,
+.posts-navigation:after,
+.widget_search form.search-form button.search-submit,
+input[type="submit"],
+.reply a,
+.black-overlay,
+.slider_widget .widget-slider,
+.separator,
+.section-separator:before,
+.slick-prev, 
+.slick-next,
+.wpcf7 input.wpcf7-form-control.wpcf7-submit,
+.site-info,
+.footer-widgets-area ul li:before,
+.pagination .page-numbers.current,
+span.posted-on a, 
+span.posted-on time,
+.contact_widget .contact-details svg,
+.slider_widget .widget-slider .slick-next,
+.slider_widget .widget-slider .slick-prev,
+li .wide:hover, 
+li .boxed:hover,
+li .wide:focus, 
+li .boxed:focus
+{ 
+    background-color: #020509; 
+}
+
+
+.site-title a,
+.section-title,
+.entry-meta > span a:hover,
+.widget_latest_post a:hover {
+    color: #020509; 
+}
+
+.wpcf7 input.wpcf7-form-control.wpcf7-submit:hover, 
+.wpcf7 input.wpcf7-form-control.wpcf7-submit:focus,
+.site-info a:hover, 
+.site-info a:focus,
+.add-separator .section-title:before, 
+.add-separator .section-title:after,
+.pagination a.page-numbers:hover, 
+.pagination a.page-numbers:focus,
+.single-post article blockquote,
+#respond input[type="submit"]:hover, 
+#respond input[type="submit"]:focus { 
+    border-color: #020509; 
+}
+
+/* Secondary Color */
+
+.read-more a:hover,
+.secondary-menu li.current-menu-item,
+.main-navigation ul.menu li.current-menu-item > a,
+.secondary-menu li:hover,
+.secondary-menu li:focus,
+.main-navigation a:hover,
+.main-navigation a:focus,
+.main-navigation .current_page_item > a,
+.main-navigation .current-menu-item > a,
+.main-navigation .current_page_ancestor > a,
+.main-navigation .current-menu-ancestor > a,
+.slider_widget .widget-slider article ul.post-categories li a,
+.custom-header-content ul.post-categories li a,
+#featured-posts ul.post-categories li a,
+.slick-prev:hover, 
+.slick-next:hover,
+.slick-prev:focus, 
+.slick-next:focus,
+#popular-posts ul.post-categories li a,
+.social-menu li.date
+{ 
+    background-color: #969425; 
+}
+
+.featured-categories .category-header .category-title
+{
+    border-color: #969425;
+}
+
+/* Media Query */
+@media screen and (min-width: 1024px){
+.main-navigation ul.sub-menu,
+.main-navigation ul.sub-menu li:hover > a, 
+.main-navigation ul.sub-menu li:focus > a {
+    background-color: #020509;
+} }
+
+@media screen and (max-width: 1023px){
+.main-navigation,
+.main-navigation .menu-item-has-children > a:before {
+    background-color: #020509;
+} }
