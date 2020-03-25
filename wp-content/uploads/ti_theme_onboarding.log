@@ -1,0 +1,19 @@
+[25/Mar/2020:11:11:31] (ℹ️): WordPress Instance Info:
+[25/Mar/2020:11:11:31] (ℹ️): Home URL : http://localhost/vs
+[25/Mar/2020:11:11:31] (ℹ️): Site URL : http://localhost/vs
+[25/Mar/2020:11:11:31] (ℹ️): WordPress Version : 5.3.2
+[25/Mar/2020:11:11:31] (ℹ️): Onboarding Version : 1.8.2
+[25/Mar/2020:11:11:31] (ℹ️): Multisite : No
+[25/Mar/2020:11:11:31] (ℹ️): Server Info : Apache/2.4.41 (Win64) PHP/7.3.12
+[25/Mar/2020:11:11:31] (ℹ️): PHP Version : 7.3.12
+[25/Mar/2020:11:11:31] (ℹ️): HTTPS : No
+[25/Mar/2020:11:11:31] (ℹ️): PHP Max Execution Time : 120
+[25/Mar/2020:11:11:31] (ℹ️): PHP Max Input Vars : 2500
+[25/Mar/2020:11:11:31] (ℹ️): Max Upload Size : 1048576000
+[25/Mar/2020:11:11:31] (ℹ️): Plugins:
+[25/Mar/2020:11:11:31] (ℹ️): [PLUGIN] AMP : v1.4.4 (AMP Project Contributors)
+[25/Mar/2020:11:11:31] (ℹ️): [PLUGIN] Elementor : v2.9.6 (Elementor.com)
+[25/Mar/2020:11:11:31] (ℹ️): [PLUGIN] Menu Icons : v0.12.2 (ThemeIsle)
+[25/Mar/2020:11:11:31] (ℹ️): [PLUGIN] One Click Demo Import : v2.5.2 (ProteusThemes)
+[25/Mar/2020:11:11:31] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.1 (ThemeIsle)
+[25/Mar/2020:11:11:31] (ℹ️): [PLUGIN] WP2Static : v6.6.7 (Leon Stafford)
